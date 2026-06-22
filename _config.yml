@@ -1,42 +1,43 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Backdoors in Deep Learning
-email: neurips2023-bugs@googlegroups.com
-description: > # this means to ignore newlines until "url:"
-  Research on Deep Learning Backdoors
+name: OE-Agent @ ACML 2026
+email: thai.le@deakin.edu.au
+description: >
+  Open and Efficient Agentic AI for Resource-Constrained Environments:
+  Advancing Accessible AI Beyond Frontier Models — ACML 2026 Workshop.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+url: https://acml2026-oeagent.github.io
+baseurl:
+last_updated:
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: neurips2023-bugs
-twitter_username: # your Twitter user name
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
+github_username: acml2026-oeagent
+twitter_username:
+linkedin_username:
+scholar_userid:
+orcid_id:
+medium_username:
+quora_username:
 
 contact_note: >
-  Feel free to reach out!
+  Questions about the workshop? Contact Hung Le at thai.le@deakin.edu.au.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics:
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Neural Compression
-blog_description: These are neural compression papers which have been reviewed and accepted.
+blog_name: OE-Agent
+blog_description: ACML 2026 Workshop on Open and Efficient Agentic AI.
 
 # Pagination
 paginate: 4
-permalink: /accepted/:year/:title/
-paginate_path: /accepted/page:num/
+permalink: /news/:year/:title/
+paginate_path: /news/page:num/
 
 text:
   pagination:
@@ -44,12 +45,12 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: # put your disqus shortname
+disqus_shortname:
 
 # Optional features
-show_social_icons:  true
-enable_anchorjs:    false
-enable_katex:       true
+show_social_icons: true
+enable_anchorjs: false
+enable_katex: true
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -60,9 +61,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  # projects:
-  #   output: true
-  #   permalink: /projects/:path/
 
 news_limit: 5
 
@@ -89,7 +87,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name:
 
   style: apa
   locale: en
