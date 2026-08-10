@@ -46,7 +46,9 @@ We welcome both mature research contributions and promising early-stage work ali
 
 Submissions must be anonymized and formatted using the official [ACML 2026 LaTeX template and style files](https://www.acml-conf.org/2026/downloads/ACML_camera_ready.zip) (see the [ACML 2026 Call for Papers](https://www.acml-conf.org/2026/calls/papers/) for details). Each submission will receive at least two reviews, assessed on relevance, originality, technical quality, clarity, reproducibility, and potential impact. Particular attention will be given to work that advances open and efficient agentic AI under realistic computational, deployment, or resource constraints.
 
-Accepted papers will be presented as oral presentations or posters. The submission portal will be announced closer to the deadline.
+Submissions are handled through OpenReview: **[ACML 2026 OE-Agent Workshop submission portal](https://openreview.net/group?id=ACML.org/2026/Workshop/OE-Agent)**.
+
+Accepted papers will be presented as oral presentations or posters.
 
 ### Important Dates
 

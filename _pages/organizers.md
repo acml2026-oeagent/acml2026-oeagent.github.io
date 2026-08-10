@@ -72,7 +72,7 @@ description: Organizing committee
 
 | | |
 |:--|:--|
-| **Main Contact** | Hung Le |
-| **Affiliation** | Deakin University |
-| **Email** | [thai.le@deakin.edu.au](mailto:thai.le@deakin.edu.au) |
+| **Contact** | OE-Agent Organizing Committee |
+| **Email** | [acml2026.oeagent@gmail.com](mailto:acml2026.oeagent@gmail.com) |
+| **Submissions** | [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/OE-Agent) |
 | **Website** | [https://acml2026-oeagent.github.io](https://acml2026-oeagent.github.io) |
