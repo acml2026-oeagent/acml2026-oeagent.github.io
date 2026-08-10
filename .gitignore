@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_store
+*:Zone.Identifier
 .ruby-version
 Gemfile.lock
 vendor/bundle

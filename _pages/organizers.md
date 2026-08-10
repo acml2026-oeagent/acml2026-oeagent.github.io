@@ -23,7 +23,7 @@ description: Organizing committee
 </div>
 
 <div class="organizer" markdown="1">
-<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/profile-placeholder.png" alt="Khanh-Binh Nguyen"></div>
+<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/org-khanh-binh-nguyen.jpg" alt="Khanh-Binh Nguyen"></div>
 <div class="organizer-bio" markdown="1">
 **Khanh-Binh (Calvin) Nguyen** (Coordinator for Invited Talks) — Associate Research Fellow at Deakin Applied Artificial Intelligence Initiative (A2I2) at Deakin University, Australia. He earned his Ph.D. in Electrical and Computer Engineering from Sungkyunkwan University. His core research investigates advanced computer vision, Vision-Language Models (VLMs), and the engineering of intelligent AI agents. He is particularly focused on developing open, memory-efficient frameworks tailored for resource-constrained environments. Through his work on memory-friendly designs, Multi-Agent Debate (MAD) systems, and latent reasoning pipelines, he actively aims to advance the accessibility of AI beyond traditional frontier models. His research is published in top-tier venues, and he regularly serves as a reviewer and Program Committee member for premier conferences and journals, including NeurIPS, CVPR, AAAI, DAC, ICCAD, DATE, and IEEE Transactions on Multimedia. He is committed to supporting an inclusive research community through mentoring students and promoting international collaboration. [Google Scholar](https://scholar.google.com/citations?authuser=1&user=LoOglv4AAAAJ)
 </div>
@@ -44,7 +44,7 @@ description: Organizing committee
 </div>
 
 <div class="organizer" markdown="1">
-<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/profile-placeholder.png" alt="Long Hoang Dang"></div>
+<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/org-long-hoang-dang.jpg" alt="Long Hoang Dang"></div>
 <div class="organizer-bio" markdown="1">
 **Long Hoang Dang** (Submission and Review Coordinator) — Assistant Professor and Head of the Computer Science Department at the Posts and Telecommunications Institute of Technology (PTIT). He received his Ph.D. in Computer Science from Deakin University in 2024. His research focuses on vision-language reasoning, with publications in leading artificial intelligence venues including AAMAS, AAAI, and IJCAI. He has served as a reviewer for NeurIPS, ECCV, EMNLP, and ICLR. He is also committed to fostering an inclusive research community through mentoring and supporting students.
 </div>
