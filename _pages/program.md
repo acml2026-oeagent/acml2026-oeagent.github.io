@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 3
+order: 2
 permalink: /program/
 title: Program
 description: Half-day workshop schedule
