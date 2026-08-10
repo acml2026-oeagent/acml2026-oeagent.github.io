@@ -7,9 +7,9 @@
   <meta name="description" content="{{ site.description }}">
   <meta property="og:image" content="https://acml2026-oeagent.github.io/assets/img/favicon.ico" />
 
-  <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
 
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:"index.html","" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/base-min.css">
 </head>
