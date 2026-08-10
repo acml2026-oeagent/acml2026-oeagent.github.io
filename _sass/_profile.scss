@@ -4,6 +4,46 @@
         width: 100%;
     }
 }
+.organizer {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+
+    .organizer-photo {
+        flex: 0 0 130px;
+        margin-right: 20px;
+
+        img {
+            width: 130px;
+            height: 130px;
+            object-fit: cover;
+            object-position: center 20%;
+            border-radius: 4px;
+            box-shadow: 0 0 5px $grey-color;
+        }
+    }
+
+    .organizer-bio {
+        flex: 1 1 auto;
+        min-width: 0;
+
+        p {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+}
+
+@include media-query($viewport-small) {
+    .organizer {
+        display: block;
+
+        .organizer-photo {
+            margin: 0 0 12px;
+        }
+    }
+}
+
 .address {
     font-family: monospace;
 
