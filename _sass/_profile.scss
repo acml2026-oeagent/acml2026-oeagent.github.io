@@ -17,7 +17,6 @@
             width: 130px;
             height: 130px;
             object-fit: cover;
-            object-position: center 20%;
             border-radius: 4px;
             box-shadow: 0 0 5px $grey-color;
         }
@@ -30,6 +29,13 @@
         p {
             margin-top: 0;
             margin-bottom: 0;
+        }
+
+        .organizer-links {
+            margin-top: 8px;
+            font-size: $small-font-size;
+
+            a { white-space: nowrap; }
         }
     }
 }
