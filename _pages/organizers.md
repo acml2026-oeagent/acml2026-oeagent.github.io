@@ -39,7 +39,7 @@ description: Organizing committee
 </div>
 
 <div class="organizer" markdown="1">
-<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/profile-placeholder.png" alt="Dung Nguyen"></div>
+<div class="organizer-photo"><img src="{{ site.baseurl }}/assets/img/org-dung-nguyen-square.jpg" alt="Dung Nguyen"></div>
 <div class="organizer-bio" markdown="1">
 **Dung Nguyen** (Poster Session Organizer) — Research Fellow at Deakin Applied Artificial Intelligence Initiative (A2I2), Deakin University, Australia. His research focuses on cooperation and coordination between artificial agents, with publications in venues in artificial intelligence such as AAMAS, AAAI, ACML, and IJCAI. He has served as a reviewer for NeurIPS and ICLR. His expertise is closely related to this workshop, particularly in multi-agent systems and modelling other agents. He is committed to supporting an inclusive research community through mentoring students.
 
