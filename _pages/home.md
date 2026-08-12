@@ -91,7 +91,9 @@ Half-day workshop at ACML 2026. **Exact times are to be updated** once ACML anno
 | Assoc. Prof. Nir Lipovetzky | University of Melbourne, Australia | AI Planning, Agent Architectures, Reinforcement Learning, Autonomous Decision Making |
 | Dr. Minh Tri Nguyen | Commonwealth Bank of Australia | Applied AI, Foundation Models, AI Deployment |
 
-Invited speakers also join the panel discussion, *Can Open and Efficient Agents Rival Frontier Models?* Additional speakers and panellists will be announced.
+Invited speakers also join the panel discussion: *Can Open and Efficient Agents Rival Frontier Models?*
+
+Additional speakers and panellists will be announced.
 
 ### Organizers
 {: #organizers}
