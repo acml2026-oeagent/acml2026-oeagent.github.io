@@ -1,3 +1,12 @@
+// The header is fixed, so anchored sections need room to clear it.
+html {
+    scroll-behavior: smooth;
+}
+
+.post-content :target {
+    scroll-margin-top: $nav-height + 24px;
+}
+
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     background-color: #fff;
