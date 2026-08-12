@@ -68,37 +68,30 @@ Accepted papers will be presented as oral presentations or posters.
 ### Program
 {: #program}
 
-Half-day workshop at ACML 2026.
+Half-day workshop at ACML 2026. **Exact times are to be updated** once ACML announces the workshop timeslot.
 
-| Time | Session |
-|:-----|:--------|
-| 09:00–09:10 | Opening remarks |
-| 09:10–09:40 | Invited Talk 1 |
-| 09:40–10:10 | Invited Talk 2 |
-| 10:10–10:40 | Contributed Oral Presentations 1 |
-| 10:40–11:10 | Coffee break / poster session |
-| 11:10–11:40 | Panel Discussion: Can Open and Efficient Agents Rival Frontier Models? |
-| 11:40–12:10 | Contributed Oral Presentations 2 |
-| 12:10–12:20 | Closing remarks |
+| Duration | Session |
+|:---------|:--------|
+| 10 min | Opening remarks |
+| 30 min | Invited Talk 1 |
+| 30 min | Invited Talk 2 |
+| 30 min | Contributed Oral Presentations 1 |
+| 30 min | Coffee break / poster session |
+| 30 min | Panel Discussion: Can Open and Efficient Agents Rival Frontier Models? |
+| 30 min | Contributed Oral Presentations 2 |
+| 10 min | Closing remarks |
 
-### Invited Speakers
+### Speakers and Panellists
 {: #speakers}
 
 | Name | Affiliation | Expertise |
 |:-----|:------------|:----------|
 | Dr. Hajime Hotta | Director, Hajime Institute, Japan | Applied AI, AI Systems, Entrepreneurship, AI Deployment |
 | Assoc. Prof. Patanamon (Pick) Thongtanunam | University of Melbourne, Australia | Software Engineering, AI Systems, Empirical Software Engineering, Human-Centered AI |
-
-#### Panellists
-
-Panel discussion: *Can Open and Efficient Agents Rival Frontier Models?*
-
-| Name | Affiliation | Expertise |
-|:-----|:------------|:----------|
 | Assoc. Prof. Nir Lipovetzky | University of Melbourne, Australia | AI Planning, Agent Architectures, Reinforcement Learning, Autonomous Decision Making |
 | Dr. Minh Tri Nguyen | Commonwealth Bank of Australia | Applied AI, Foundation Models, AI Deployment |
 
-Additional invited speakers and panellists will be announced.
+Invited speakers also join the panel discussion, *Can Open and Efficient Agents Rival Frontier Models?* Additional speakers and panellists will be announced.
 
 ### Organizers
 {: #organizers}
