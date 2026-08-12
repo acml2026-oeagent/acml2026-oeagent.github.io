@@ -11,7 +11,7 @@ description: Invited speakers and panellists
 | Name | Affiliation | Expertise |
 |:-----|:------------|:----------|
 | Dr. Hajime Hotta | Director, Hajime Institute, Japan | Applied AI, AI Systems, Entrepreneurship, AI Deployment |
-| Assoc. Prof. Patanamon (Pick) Thongtanunam | University of Melbourne, Australia | Software Engineering, AI Systems, Empirical Software Engineering, Human-Centered AI |
+| Assoc. Prof. Patanamon Thongtanunam | University of Melbourne, Australia | Software Engineering, AI Systems, Empirical Software Engineering, Human-Centered AI |
 
 ### Panellists
 
