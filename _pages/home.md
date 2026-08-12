@@ -9,6 +9,7 @@ social: true
 ---
 
 ### About
+{: #about}
 
 Recent advances in foundation models have enabled increasingly capable agentic AI systems that perform reasoning, planning, tool use, workflow automation, and autonomous decision-making. However, much of this progress relies on frontier-scale proprietary models that require substantial computational resources, specialized infrastructure, and access to commercial APIs. These requirements create significant barriers for many researchers, startups, enterprises, and public-sector organizations, particularly within emerging and resource-constrained regions across Asia-Pacific.
 
@@ -27,6 +28,7 @@ This challenge is particularly relevant within the Asia-Pacific region. Many uni
 Recent progress in retrieval-augmented generation, memory systems, test-time scaling, tool use, model compression, distillation, and multi-agent collaboration suggests alternative pathways toward capable AI systems. These advances motivate a central question: **can system-level innovations compensate for model scale and enable practical agentic AI in resource-constrained environments?**
 
 ### Topics of Interest
+{: #topics}
 
 We invite submissions on topics including, but not limited to:
 
@@ -38,6 +40,7 @@ We invite submissions on topics including, but not limited to:
 * Applications of open and efficient agents in various domains such as science, industry, and society
 
 ### Submission Guidelines
+{: #submission}
 
 We welcome both mature research contributions and promising early-stage work aligned with the workshop theme:
 
@@ -51,6 +54,7 @@ Submissions are handled through OpenReview: **[ACML 2026 OE-Agent Workshop submi
 Accepted papers will be presented as oral presentations or posters.
 
 ### Important Dates
+{: #dates}
 
 | Date | Milestone |
 |:--|:--|
@@ -61,4 +65,83 @@ Accepted papers will be presented as oral presentations or posters.
 | 20 November 2026 | Final program published |
 | **1 December 2026** | **Workshop** |
 
-See the [Program](/program/) for the half-day schedule and [Speakers](/speakers/) for invited talk details.
+### Program
+{: #program}
+
+Half-day workshop at ACML 2026.
+
+| Time | Session |
+|:-----|:--------|
+| 09:00–09:10 | Opening remarks |
+| 09:10–09:40 | Invited Talk 1 |
+| 09:40–10:10 | Invited Talk 2 |
+| 10:10–10:40 | Contributed Oral Presentations 1 |
+| 10:40–11:10 | Coffee break / poster session |
+| 11:10–11:40 | Panel Discussion: Can Open and Efficient Agents Rival Frontier Models? |
+| 11:40–12:10 | Contributed Oral Presentations 2 |
+| 12:10–12:20 | Closing remarks |
+
+### Invited Speakers
+{: #speakers}
+
+| Name | Affiliation | Expertise |
+|:-----|:------------|:----------|
+| Dr. Hajime Hotta | Director, Hajime Institute, Japan | Applied AI, AI Systems, Entrepreneurship, AI Deployment |
+| Assoc. Prof. Patanamon (Pick) Thongtanunam | University of Melbourne, Australia | Software Engineering, AI Systems, Empirical Software Engineering, Human-Centered AI |
+
+#### Panellists
+
+Panel discussion: *Can Open and Efficient Agents Rival Frontier Models?*
+
+| Name | Affiliation | Expertise |
+|:-----|:------------|:----------|
+| Dr. Minh Tri Nguyen | Commonwealth Bank of Australia | Applied AI, Foundation Models, AI Deployment |
+| Assoc. Prof. Nir Lipovetzky | University of Melbourne, Australia | AI Planning, Agent Architectures, Reinforcement Learning, Autonomous Decision Making |
+
+Additional invited speakers and panellists will be announced.
+
+### Organizers
+{: #organizers}
+
+<div class="organizer-grid">
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-hung-le-square.jpg' | relative_url }}" alt="Hung Le">
+    <div class="organizer-name"><a href="https://thaihungle.github.io/">Hung Le</a></div>
+    <div class="organizer-affil">A2I2, Deakin University</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-haripriya-harikumar-square.jpg' | relative_url }}" alt="Haripriya Harikumar">
+    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=50ErN80AAAAJ">Haripriya Harikumar</a></div>
+    <div class="organizer-affil">Centre for AI Fundamentals, University of Manchester</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-khanh-binh-nguyen-square.jpg' | relative_url }}" alt="Khanh-Binh Nguyen">
+    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=LoOglv4AAAAJ">Khanh-Binh (Calvin) Nguyen</a></div>
+    <div class="organizer-affil">A2I2, Deakin University</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-dung-nguyen-square.jpg' | relative_url }}" alt="Dung Nguyen">
+    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=O5OU_kUAAAAJ">Dung Nguyen</a></div>
+    <div class="organizer-affil">A2I2, Deakin University</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-manh-nguyen-square.jpg' | relative_url }}" alt="Manh Nguyen">
+    <div class="organizer-name"><a href="https://manhitv.github.io">Manh Nguyen</a></div>
+    <div class="organizer-affil">A2I2, Deakin University</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/org-long-hoang-dang-square.jpg' | relative_url }}" alt="Long Hoang Dang">
+    <div class="organizer-name"><a href="https://scholar.google.com.au/citations?user=unEG5bgAAAAJ">Long Hoang Dang</a></div>
+    <div class="organizer-affil">Posts and Telecommunications Institute of Technology</div>
+  </div>
+</div>
+
+### Contact
+{: #contact}
+
+| | |
+|:--|:--|
+| **Contact** | OE-Agent Organizing Committee |
+| **Email** | [acml2026.oeagent@gmail.com](mailto:acml2026.oeagent@gmail.com) |
+| **Submissions** | [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/OE-Agent) |
+| **Website** | [https://acml2026-oeagent.github.io](https://acml2026-oeagent.github.io) |
