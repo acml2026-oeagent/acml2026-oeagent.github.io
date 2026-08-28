@@ -11,11 +11,11 @@ social: true
 ### About
 {: #about}
 
-Recent advances in foundation models have enabled increasingly capable agentic AI systems that perform reasoning, planning, tool use, workflow automation, and autonomous decision-making. However, much of this progress relies on frontier-scale proprietary models that require substantial computational resources, specialized infrastructure, and access to commercial APIs. These requirements create significant barriers for many researchers, startups, enterprises, and public-sector organizations, particularly within emerging and resource-constrained regions across Asia-Pacific.
+Recent advances in foundation models have enabled increasingly capable agentic AI systems that perform reasoning, planning, tool use, workflow automation, and autonomous decision-making. However, much of this progress relies on frontier-scale proprietary models that require substantial computational resources, specialized infrastructure, and access to commercial APIs. These requirements create significant barriers for many researchers, startups, enterprises, and public-sector organizations operating under limited resources.
 
 At the same time, rapid progress in open-weight foundation models, small language models, retrieval systems, memory architectures, test-time scaling, and multi-agent collaboration has created new opportunities for building capable AI systems without relying exclusively on frontier-scale models. A fundamental research question emerges: **can algorithmic and system-level innovations compensate for model scale and enable effective agentic AI under limited computational budgets?**
 
-This OE-Agent workshop aims to bring together researchers and practitioners working on open and efficient agentic AI. The workshop will focus on methods that improve accessibility, affordability, privacy, deployability, and sustainability while maintaining strong capabilities. By highlighting emerging research directions and practical deployment challenges, the workshop seeks to foster collaboration across academia, industry, and government and strengthen the Asia-Pacific research community.
+This OE-Agent workshop aims to bring together researchers and practitioners working on open and efficient agentic AI. The workshop will focus on methods that improve accessibility, affordability, privacy, deployability, and sustainability while maintaining strong capabilities. By highlighting emerging research directions and practical deployment challenges, the workshop seeks to foster collaboration across academia, industry, and government.
 
 #### Motivation and Scope
 
@@ -23,7 +23,7 @@ Agentic AI has emerged as one of the most important directions in machine learni
 
 Despite these advances, the majority of state-of-the-art agentic systems are built upon frontier-scale proprietary foundation models. Training and deploying such systems often requires access to large computational budgets, specialized hardware, and commercial APIs. These requirements create substantial barriers for researchers and organizations operating under limited resources.
 
-This challenge is particularly relevant within the Asia-Pacific region. Many universities, startups, public-sector organizations, and emerging research communities possess strong technical expertise but do not have access to frontier-scale infrastructure. Consequently, there is growing interest in developing open, efficient, and deployable agentic systems that can operate effectively using open-weight models, limited computational budgets, and local infrastructure.
+Many universities, startups, and public-sector organizations possess strong technical expertise but lack access to frontier-scale infrastructure. Consequently, there is growing interest in developing open, efficient, and deployable agentic systems that can operate effectively using open-weight models, limited computational budgets, and local infrastructure.
 
 Recent progress in retrieval-augmented generation, memory systems, test-time scaling, tool use, model compression, distillation, and multi-agent collaboration suggests alternative pathways toward capable AI systems. These advances motivate a central question: **can system-level innovations compensate for model scale and enable practical agentic AI in resource-constrained environments?**
 
@@ -84,16 +84,30 @@ Half-day workshop at ACML 2026. **Exact times are to be updated** once ACML anno
 ### Speakers and Panellists
 {: #speakers}
 
-| Name | Affiliation | Expertise |
-|:-----|:------------|:----------|
-| Dr. Hajime Hotta | Director, Hajime Institute, Japan | Applied AI, AI Systems, Entrepreneurship, AI Deployment |
-| Assoc. Prof. Patanamon (Pick) Thongtanunam | University of Melbourne, Australia | Software Engineering, AI Systems, Empirical Software Engineering, Human-Centered AI |
-| Assoc. Prof. Nir Lipovetzky | University of Melbourne, Australia | AI Planning, Agent Architectures, Reinforcement Learning, Autonomous Decision Making |
-| Dr. Minh Tri Nguyen | Commonwealth Bank of Australia | Applied AI, Foundation Models, AI Deployment |
+<div class="organizer-grid organizer-grid--speakers">
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/speaker-hajime-hotta.jfif' | relative_url }}" alt="Hajime Hotta">
+    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=Dr0ngc0AAAAJ&hl=en">Hajime Hotta</a></div>
+    <div class="organizer-affil">PhD, Director, Hajime Institute</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/speaker-tri-nguyen.jpeg' | relative_url }}" alt="Minh Tri Nguyen">
+    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=lYsThNEAAAAJ&hl=en">Minh Tri Nguyen</a></div>
+    <div class="organizer-affil">PhD, Data Scientist, Commonwealth Bank</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/profile-placeholder.png' | relative_url }}" alt="Patanamon Thongtanunam">
+    <div class="organizer-name">Patanamon Thongtanunam</div>
+    <div class="organizer-affil">Associate Professor, University of Melbourne</div>
+  </div>
+  <div class="organizer-card">
+    <img src="{{ '/assets/img/profile-placeholder.png' | relative_url }}" alt="Nir Lipovetzky">
+    <div class="organizer-name">Nir Lipovetzky</div>
+    <div class="organizer-affil">Associate Professor, University of Melbourne</div>
+  </div>
+</div>
 
 Invited speakers also join the panel discussion: *Can Open and Efficient Agents Rival Frontier Models?*
-
-Additional speakers and panellists will be announced.
 
 ### Organizers
 {: #organizers}
@@ -140,3 +154,17 @@ Additional speakers and panellists will be announced.
 | **Email** | [acml2026.oeagent@gmail.com](mailto:acml2026.oeagent@gmail.com) |
 | **Submissions** | [OpenReview](https://openreview.net/group?id=ACML.org/2026/Workshop/OE-Agent) |
 | **Website** | [https://acml2026-oeagent.github.io](https://acml2026-oeagent.github.io) |
+
+### Sponsors
+{: #sponsors}
+
+<div class="sponsor-grid">
+  <div class="sponsor-item">
+    <img src="{{ '/assets/img/logo-a2i2.png' | relative_url }}" alt="A2I2, Deakin University">
+    <div class="sponsor-label">Sponsored by A2I2, Deakin University</div>
+  </div>
+  <div class="sponsor-item">
+    <img src="{{ '/assets/img/logo-acml.png' | relative_url }}" alt="ACML 2026">
+    <div class="sponsor-label">Hosted by ACML 2026</div>
+  </div>
+</div>
