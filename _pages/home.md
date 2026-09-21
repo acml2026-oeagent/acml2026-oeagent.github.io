@@ -96,13 +96,13 @@ Half-day workshop at ACML 2026. **Exact times are to be updated** once ACML anno
     <div class="organizer-affil">PhD, Data Scientist, Commonwealth Bank</div>
   </div>
   <div class="organizer-card">
-    <img src="{{ '/assets/img/profile-placeholder.png' | relative_url }}" alt="Patanamon Thongtanunam">
-    <div class="organizer-name">Patanamon Thongtanunam</div>
+    <img src="{{ '/assets/img/speaker-patanamon-thongtanunam.jpg' | relative_url }}" alt="Patanamon Thongtanunam">
+    <div class="organizer-name"><a href="https://patanamon.com/">Patanamon Thongtanunam</a></div>
     <div class="organizer-affil">Associate Professor, University of Melbourne</div>
   </div>
   <div class="organizer-card">
-    <img src="{{ '/assets/img/profile-placeholder.png' | relative_url }}" alt="Nir Lipovetzky">
-    <div class="organizer-name">Nir Lipovetzky</div>
+    <img src="{{ '/assets/img/speaker-nir-lipovetzky.jpg' | relative_url }}" alt="Nir Lipovetzky">
+    <div class="organizer-name"><a href="https://nirlipo.github.io/">Nir Lipovetzky</a></div>
     <div class="organizer-affil">Associate Professor, University of Melbourne</div>
   </div>
 </div>
