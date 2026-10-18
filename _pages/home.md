@@ -59,7 +59,7 @@ Accepted papers will be presented as oral presentations or posters.
 | Date | Milestone |
 |:--|:--|
 | 18 August 2026 | Call for papers announced |
-| 18 October 2026 | Paper submission deadline, 23:59 AoE |
+| <del>18 October 2026</del> <strong style="color:#d93025">23 October 2026</strong> | Paper submission deadline, 23:59 AoE <span style="color:#d93025">(extended)</span> |
 | 30 October 2026 | Acceptance notification |
 | 13 November 2026 | Camera-ready deadline |
 | 20 November 2026 | Final program published |
