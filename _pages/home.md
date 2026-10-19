@@ -91,11 +91,6 @@ Half-day workshop at ACML 2026. **Exact times are to be updated** once ACML anno
     <div class="organizer-affil">PhD, Director, Hajime Institute</div>
   </div>
   <div class="organizer-card">
-    <img src="{{ '/assets/img/speaker-tri-nguyen.jpeg' | relative_url }}" alt="Minh Tri Nguyen">
-    <div class="organizer-name"><a href="https://scholar.google.com/citations?user=lYsThNEAAAAJ&hl=en">Minh Tri Nguyen</a></div>
-    <div class="organizer-affil">PhD, Data Scientist, Commonwealth Bank</div>
-  </div>
-  <div class="organizer-card">
     <img src="{{ '/assets/img/speaker-patanamon-thongtanunam.jpg' | relative_url }}" alt="Patanamon Thongtanunam">
     <div class="organizer-name"><a href="https://patanamon.com/">Patanamon Thongtanunam</a></div>
     <div class="organizer-affil">Associate Professor, University of Melbourne</div>
