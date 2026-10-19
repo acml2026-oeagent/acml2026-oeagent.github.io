@@ -53,6 +53,8 @@ Submissions are handled through OpenReview: **[ACML 2026 OE-Agent Workshop submi
 
 Accepted papers will be presented as oral presentations or posters.
 
+This workshop is **non-archival**. Accepted papers will be made available on the workshop website, but no formal proceedings will be published.
+
 ### Important Dates
 {: #dates}
 
