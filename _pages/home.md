@@ -62,7 +62,7 @@ This workshop is **non-archival**. Accepted papers will be made available on the
 |:--|:--|
 | 18 August 2026 | Call for papers announced |
 | <del>18 October 2026</del> <strong style="color:#d93025">23 October 2026</strong> | Paper submission deadline, 23:59 AoE <span style="color:#d93025">(extended)</span> |
-| 30 October 2026 | Acceptance notification |
+| <del>30 October 2026</del> <strong style="color:#d93025">6 November 2026</strong> | Acceptance notification <span style="color:#d93025">(extended)</span> |
 | 13 November 2026 | Camera-ready deadline |
 | 20 November 2026 | Final program published |
 | **1 December 2026** | **Workshop** |
