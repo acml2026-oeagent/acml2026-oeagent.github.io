@@ -142,6 +142,19 @@ Invited speakers also join the panel discussion: *Can Open and Efficient Agents 
   </div>
 </div>
 
+### Acknowledgements
+{: #acknowledgements}
+
+We thank the following people for their service as reviewers:
+
+* G Thomas Hudson, Postdoc at University of Manchester
+* Rishabh Kumar, Staff Software Engineer at Airbnb
+* Xingyuan Zhang, Postdoc at University of Manchester
+* Kashish Jain, Researcher at Google
+* Uzair Ali, Founding Engineer at Flip Laboratories Inc
+* Anirudh Vasudevan, Founding Engineer at Rivo Inc
+* Saumya Tyagi, Principal Engineer at Microsoft
+
 ### Contact
 {: #contact}
 
